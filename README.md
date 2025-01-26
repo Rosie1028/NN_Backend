@@ -1,4 +1,5 @@
-National News Backend
+National News Summarizer
+
 Overview
 National News Backend is a project that leverages the power of natural language processing (NLP) to create a summarization system. By utilizing the NASES language model, this system allows users to easily generate 
 concise summaries from any news article by simply copying and pasting the text.
